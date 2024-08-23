@@ -1,4 +1,5 @@
 ﻿
 --Begin
 declare @variable INT
---Not correct
+--This should be correct
+--Correct
